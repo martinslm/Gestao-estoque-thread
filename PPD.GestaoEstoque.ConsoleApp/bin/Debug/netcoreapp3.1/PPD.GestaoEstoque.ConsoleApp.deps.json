@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PPD.GestaoEstoque.ConsoleApp/1.0.0": {
+        "runtime": {
+          "PPD.GestaoEstoque.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPD.GestaoEstoque.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.exe
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.deps.json
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.runtimeconfig.json
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.runtimeconfig.dev.json
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.dll
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\bin\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.pdb
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.AssemblyInfo.cs
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.dll
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.pdb
+C:\Users\larissa.martins\Source\Repos\Gestao-estoque-thread\PPD.GestaoEstoque.ConsoleApp\obj\Debug\netcoreapp3.1\PPD.GestaoEstoque.ConsoleApp.genruntimeconfig.cache
