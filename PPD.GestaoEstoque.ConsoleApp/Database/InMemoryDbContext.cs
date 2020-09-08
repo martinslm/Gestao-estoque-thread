@@ -25,7 +25,6 @@ namespace PPD.GestaoEstoque.ConsoleApp.Database
                 new Venda(3, ObterProdutosVenda3(), 1)
             };
         }
-
         private List<Filial> ObterListagemFiliais()
         {
             return new List<Filial>()
@@ -33,7 +32,6 @@ namespace PPD.GestaoEstoque.ConsoleApp.Database
                 new Filial(1, "Filial da Larissa", ObterEstoqueFilial1())
             };
         }
-
         private List<Produto> ObterEstoqueFilial1()
         {
             return new List<Produto>()
@@ -54,7 +52,6 @@ namespace PPD.GestaoEstoque.ConsoleApp.Database
                 new Produto(4, 3, 2)
             };
         }
-
         private List<Produto> ObterProdutosVenda2()
         {
             return new List<Produto>()
